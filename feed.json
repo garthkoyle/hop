@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Home Office Politics",
+    "description": "",
+    "home_page_url": "https://homeofficepolitics.com",
+    "feed_url": "https://homeofficepolitics.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Garth"
+    },
+    "items": [
+        {
+            "id": "https://homeofficepolitics.com/about/",
+            "url": "https://homeofficepolitics.com/about/",
+            "title": "About",
+            "summary": "Home Office Politics (HOP) has been a long time in the making. We registered this domain a long time ago as a way to poke fun at working from home; and juxtapose working from home with working in an office. Every so often we'll get&hellip;",
+            "content_html": "<p>Home Office Politics (HOP) has been a long time in the making. We registered this domain a long time ago as a way to poke fun at working from home; and juxtapose working from home with working in an office. Every so often we'll get serious about the challenges of working from home too.</p>",
+            "author": {
+                "name": "Garth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-26T18:01:33-07:00",
+            "date_modified": "2021-01-26T18:01:33-07:00"
+        }
+    ]
+}
