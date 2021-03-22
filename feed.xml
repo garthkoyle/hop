@@ -3,30 +3,10 @@
     <title>Home Office Politics</title>
     <link href="https://homeofficepolitics.com/feed.xml" rel="self" />
     <link href="https://homeofficepolitics.com" />
-    <updated>2021-01-26T18:01:33-07:00</updated>
+    <updated>1969-12-31T17:00:00-07:00</updated>
     <author>
-        <name>Garth</name>
+        <name>Staff</name>
     </author>
     <id>https://homeofficepolitics.com</id>
 
-    <entry>
-        <title>About</title>
-        <author>
-            <name>Garth</name>
-        </author>
-        <link href="https://homeofficepolitics.com/about/"/>
-        <id>https://homeofficepolitics.com/about/</id>
-
-        <updated>2021-01-26T18:01:33-07:00</updated>
-            <summary>
-                <![CDATA[
-                    Home Office Politics (HOP) has been a long time in the making. We registered this domain a long time ago as a way to poke fun at working from home; and juxtapose working from home with working in an office. Every so often we'll get&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Home Office Politics (HOP) has been a long time in the making. We registered this domain a long time ago as a way to poke fun at working from home; and juxtapose working from home with working in an office. Every so often we'll get serious about the challenges of working from home too.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
