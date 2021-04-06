@@ -3,7 +3,7 @@
     <title>Home Office Politics | Make Money Save Money in 2021</title>
     <link href="https://homeofficepolitics.com/feed.xml" rel="self" />
     <link href="https://homeofficepolitics.com" />
-    <updated>2021-04-06T11:49:27-06:00</updated>
+    <updated>2021-04-06T11:52:22-06:00</updated>
     <author>
         <name>Staff</name>
     </author>
@@ -16,16 +16,18 @@
         </author>
         <link href="https://homeofficepolitics.com/contact-us/"/>
         <id>https://homeofficepolitics.com/contact-us/</id>
+            <category term="About"/>
 
-        <updated>2021-04-06T11:49:27-06:00</updated>
+        <updated>2021-04-06T11:52:22-06:00</updated>
             <summary>
                 <![CDATA[
-                    Loading…
+                    Loading… 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSexOSLSka72UpvzcRaJweRT-qco3OLHbI52tNL1hB_TUV_6Ow/viewform?embedded=true" width="640" height="538" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div></div>
+                <div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSexOSLSka72UpvzcRaJweRT-qco3OLHbI52tNL1hB_TUV_6Ow/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+</div>
             ]]>
         </content>
     </entry>
@@ -37,7 +39,7 @@
         <link href="https://homeofficepolitics.com/about-you/"/>
         <id>https://homeofficepolitics.com/about-you/</id>
 
-        <updated>2021-04-06T11:47:13-06:00</updated>
+        <updated>2021-04-06T11:52:10-06:00</updated>
             <summary>
                 <![CDATA[
                      We want to know more about you. Tell us what you want to achieve? Do you want to make more more money, save money, start a side hustle or get side gig? What challenges are you experiencing? What would help you achieve these goals?&hellip;
@@ -64,9 +66,9 @@
         </author>
         <link href="https://homeofficepolitics.com/about/"/>
         <id>https://homeofficepolitics.com/about/</id>
-            <category term="Save Money"/>
+            <category term="About"/>
 
-        <updated>2021-04-06T11:29:53-06:00</updated>
+        <updated>2021-04-06T11:51:05-06:00</updated>
             <summary>
                 <![CDATA[
                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It&hellip;
@@ -76,12 +78,7 @@
             <![CDATA[
                 
   <p>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to <a href="https://homeofficepolitics.com/about/">make a type specimen book</a>. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><br><p></p><p></p><p></p><p></p>
-  </p>
-<div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSedMj7IF5tejoB6X9gaCzYphjm_6iDTtaDd9jBfJploUpO1yg/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div></div>
-
-  <p>
-    It might help to put some text on the bottom?
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to <a href="https://homeofficepolitics.com/about/">make a type specimen book</a>. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><br><p></p><p></p><p></p><p></p>It might help to put some text on the bottom?
   </p>
             ]]>
         </content>
