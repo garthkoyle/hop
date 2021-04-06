@@ -3,12 +3,36 @@
     <title>Home Office Politics | Make Money Save Money in 2021</title>
     <link href="https://homeofficepolitics.com/feed.xml" rel="self" />
     <link href="https://homeofficepolitics.com" />
-    <updated>2021-04-06T11:29:53-06:00</updated>
+    <updated>2021-04-06T11:45:53-06:00</updated>
     <author>
         <name>Staff</name>
     </author>
     <id>https://homeofficepolitics.com</id>
 
+    <entry>
+        <title>About You</title>
+        <author>
+            <name>Staff</name>
+        </author>
+        <link href="https://homeofficepolitics.com/about-you/"/>
+        <id>https://homeofficepolitics.com/about-you/</id>
+
+        <updated>2021-04-06T11:45:53-06:00</updated>
+            <summary>
+                <![CDATA[
+                     We want to know more about you. Tell us what you want to achieve? Do you want to make more more money, save money, start a side hustle or get side gig? What challenges are you experiencing? What would help you achieve these goals?&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    We want to know more about you. Tell us what you want to achieve? Do you want to make more more money, save money, start a side hustle or get side gig? What challenges are you experiencing?  What would help you achieve these goals?
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSedMj7IF5tejoB6X9gaCzYphjm_6iDTtaDd9jBfJploUpO1yg/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
