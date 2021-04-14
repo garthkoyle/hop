@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://homeofficepolitics.com/make-money/",
+            "url": "https://homeofficepolitics.com/make-money/",
+            "title": "Make Money",
+            "summary": " This is a static page focused around the pillar \"make money\", and will be a manually-written page that highlights all the topic clusters and articles about making money. ",
+            "image": "https://homeofficepolitics.com/media/posts/9/make-money-entrepreneur.jpg",
+            "author": {
+                "name": "Staff"
+            },
+            "tags": [
+                   "Make Money"
+            ],
+            "date_published": "2021-04-14T14:02:59-06:00",
+            "date_modified": "2021-04-14T14:03:17-06:00"
+        },
+        {
             "id": "https://homeofficepolitics.com/about/",
             "url": "https://homeofficepolitics.com/about/",
             "title": "More About Us",
@@ -83,7 +98,7 @@
                    "Save Money"
             ],
             "date_published": "2021-04-09T10:47:23-06:00",
-            "date_modified": "2021-04-14T13:52:55-06:00"
+            "date_modified": "2021-04-14T14:03:23-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/write-for-us/",
