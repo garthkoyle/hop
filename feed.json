@@ -15,7 +15,7 @@
             "url": "https://homeofficepolitics.com/make-money/",
             "title": "Make Money",
             "summary": " This is a static page focused around the pillar \"make money\", and will be a manually-written page that highlights all the topic clusters and articles about making money. ",
-            "image": "https://homeofficepolitics.com/media/posts/9/make-money-entrepreneur.jpg",
+            "image": "https://homeofficepolitics.com/media/posts/9/make-money-entrepreneur-960.png",
             "author": {
                 "name": "Staff"
             },
@@ -23,7 +23,7 @@
                    "Make Money"
             ],
             "date_published": "2021-04-14T14:02:59-06:00",
-            "date_modified": "2021-04-14T14:03:17-06:00"
+            "date_modified": "2021-04-15T22:45:45-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/about/",
@@ -53,14 +53,14 @@
                    "Resources"
             ],
             "date_published": "2021-04-14T13:55:52-06:00",
-            "date_modified": "2021-04-14T13:55:52-06:00"
+            "date_modified": "2021-04-15T22:46:39-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/contact/",
             "url": "https://homeofficepolitics.com/contact/",
             "title": "Contact Us",
             "summary": " Send us an email by completing the form below. No spam please. Loading… ",
-            "image": "https://homeofficepolitics.com/media/posts/3/contact-us.jpg",
+            "image": "https://homeofficepolitics.com/media/posts/3/contact-hop-960.png",
             "author": {
                 "name": "Staff"
             },
@@ -68,7 +68,7 @@
                    "About"
             ],
             "date_published": "2021-04-14T13:55:10-06:00",
-            "date_modified": "2021-04-14T13:55:10-06:00"
+            "date_modified": "2021-04-15T22:46:25-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/tcp/",
@@ -83,14 +83,14 @@
                    "About"
             ],
             "date_published": "2021-04-14T13:49:36-06:00",
-            "date_modified": "2021-04-14T13:54:05-06:00"
+            "date_modified": "2021-04-15T22:46:02-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/save-money/",
             "url": "https://homeofficepolitics.com/save-money/",
             "title": "Save Money",
             "summary": " Manual pillar page about the pillar keyword ... e.g Save Money. Includes a manually updated or written description of the cluster topics and articles contained in the \"save money\" pillar. ",
-            "image": "https://homeofficepolitics.com/media/posts/8/save-money.jpg",
+            "image": "https://homeofficepolitics.com/media/posts/8/save-money-960.png",
             "author": {
                 "name": "Staff"
             },
@@ -98,14 +98,14 @@
                    "Save Money"
             ],
             "date_published": "2021-04-09T10:47:23-06:00",
-            "date_modified": "2021-04-14T14:03:23-06:00"
+            "date_modified": "2021-04-15T22:45:56-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/write-for-us/",
             "url": "https://homeofficepolitics.com/write-for-us/",
             "title": "Write for Us",
             "summary": " We love working with other authors and people experienced with making money, saving money, working from home, remote jobs, side hustles, side gigs and personal finance. Please complete this form if you have something you would like to contribute or if you want to work together. We love reciprocating links, articles, etc. Fees may apply. Don't get overwhelmed here, this is more common sense and is easy if you write quality content. Submit your content. Thank you. ",
-            "image": "https://homeofficepolitics.com/media/posts/4/write-for-us.jpg",
+            "image": "https://homeofficepolitics.com/media/posts/4/write-for-hop-960.png",
             "author": {
                 "name": "Staff"
             },
@@ -113,7 +113,7 @@
                    "About"
             ],
             "date_published": "2021-04-06T12:07:49-06:00",
-            "date_modified": "2021-04-14T13:54:34-06:00"
+            "date_modified": "2021-04-15T22:46:13-06:00"
         }
     ]
 }
