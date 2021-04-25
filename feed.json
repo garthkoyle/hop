@@ -22,13 +22,13 @@
                    "Resources"
             ],
             "date_published": "2021-04-24T16:55:57-06:00",
-            "date_modified": "2021-04-24T16:56:42-06:00"
+            "date_modified": "2021-04-24T21:41:50-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/side-hustle-assessment-a/",
             "url": "https://homeofficepolitics.com/side-hustle-assessment-a/",
-            "title": "Side Hustle Assessment Grade: Excellent",
-            "summary": " Your high-level side hustle assessment grade is excellent! You have a log of&nbsp;great things going. Continue working on a side hustle.&nbsp;&nbsp;Contact us and we can give you some direction to help you keep moving forward with your side hustle. ",
+            "title": "Side Hustle Assessment Grades",
+            "summary": " Your high-level side hustle assessment grade is excellent! You have a log of&nbsp;great things going. Continue working on a side hustle.&nbsp;&nbsp;Contact us and we can give you some direction to help you keep moving forward with your side hustle. asdf asdf asdf asdf Grade F: Terrible ",
             "author": {
                 "name": "Staff"
             },
@@ -36,63 +36,7 @@
                    "Resources"
             ],
             "date_published": "2021-04-24T14:06:56-06:00",
-            "date_modified": "2021-04-24T14:20:56-06:00"
-        },
-        {
-            "id": "https://homeofficepolitics.com/side-hustle-assessment-b/",
-            "url": "https://homeofficepolitics.com/side-hustle-assessment-b/",
-            "title": "Side Hustle Assessment Grade: Good",
-            "summary": " Your high-level side hustle assessment grade is good. You have several good things going. Continue working on a side hustle.&nbsp;&nbsp;Contact us and we can give you some direction to help you keep moving forward with your side hustle. ",
-            "author": {
-                "name": "Staff"
-            },
-            "tags": [
-                   "Resources"
-            ],
-            "date_published": "2021-04-24T14:05:48-06:00",
-            "date_modified": "2021-04-24T14:06:52-06:00"
-        },
-        {
-            "id": "https://homeofficepolitics.com/side-hustle-assessment-c/",
-            "url": "https://homeofficepolitics.com/side-hustle-assessment-c/",
-            "title": "Side Hustle Assessment Grade: Low",
-            "summary": " Your high-level side hustle assessment grade is low. Continue working on a side hustle.&nbsp;&nbsp;Contact us and we can give you some direction to help you improve your side hustle. ",
-            "author": {
-                "name": "Staff"
-            },
-            "tags": [
-                   "Resources"
-            ],
-            "date_published": "2021-04-24T14:03:35-06:00",
-            "date_modified": "2021-04-24T14:05:34-06:00"
-        },
-        {
-            "id": "https://homeofficepolitics.com/side-hustle-assessment-d/",
-            "url": "https://homeofficepolitics.com/side-hustle-assessment-d/",
-            "title": "Side Hustle Assessment Grade: Poor",
-            "summary": " Your high-level side hustle assessment grade is poor. We recommend to be cautious starting a side hustle at this time. However, contact us and we can give you some direction to help you improve your side hustle. ",
-            "author": {
-                "name": "Staff"
-            },
-            "tags": [
-                   "Resources"
-            ],
-            "date_published": "2021-04-24T13:56:11-06:00",
-            "date_modified": "2021-04-24T14:05:26-06:00"
-        },
-        {
-            "id": "https://homeofficepolitics.com/side-hustle-assessment-f/",
-            "url": "https://homeofficepolitics.com/side-hustle-assessment-f/",
-            "title": "Side Hustle Assessment Grade: Fail",
-            "summary": " Your high-level side hustle assessment grade is very poor. We do not recommend starting a side hustle at this time. However, contact us and we can give you some direction to help you improve your side hustle. ",
-            "author": {
-                "name": "Staff"
-            },
-            "tags": [
-                   "Resources"
-            ],
-            "date_published": "2021-04-24T13:44:48-06:00",
-            "date_modified": "2021-04-24T14:05:14-06:00"
+            "date_modified": "2021-04-24T21:46:07-06:00"
         },
         {
             "id": "https://homeofficepolitics.com/make-money/",
@@ -153,6 +97,51 @@
             ],
             "date_published": "2021-04-14T13:55:10-06:00",
             "date_modified": "2021-04-24T11:27:17-06:00"
+        },
+        {
+            "id": "https://homeofficepolitics.com/tcp/",
+            "url": "https://homeofficepolitics.com/tcp/",
+            "title": "Terms, Conditions, Privacy, etc.",
+            "summary": " The terms \"us\", \"we\", \"HOP\", etc. represent Home Office Politics. The terms \"you\", \"viewer\", \"visitor\", etc. represent you. Our service, tools and information is provided as-is with no warranty. We will do our best to provide you great information and tools and keep them available as much as possible. We reserve the right to limit access to our resources at our sole discretion.&nbsp; We reserve the right to use the content, data and tools at our disposal for our advantage as long as it is good and legal. Data provided to us via form submissions is used for customer service, assessment, and marketing purposes. The&nbsp;content on HomeOfficePolitics.com may contain affiliate links, meaning we&nbsp;receive payment if you decide to make a purchase or sign up through our links, at no cost to you. Please use our links to help support everything we are trying to do for you and our community. ",
+            "image": "https://homeofficepolitics.com/media/posts/6/terms-conditions-privacy.jpg",
+            "author": {
+                "name": "Staff"
+            },
+            "tags": [
+                   "About"
+            ],
+            "date_published": "2021-04-14T13:49:36-06:00",
+            "date_modified": "2021-04-24T13:38:10-06:00"
+        },
+        {
+            "id": "https://homeofficepolitics.com/save-money/",
+            "url": "https://homeofficepolitics.com/save-money/",
+            "title": "Save Money",
+            "summary": " Manual pillar page about the pillar keyword ... e.g Save Money. Includes a manually updated or written description of the cluster topics and articles contained in the \"save money\" pillar. ",
+            "image": "https://homeofficepolitics.com/media/posts/8/save-money-960.webp",
+            "author": {
+                "name": "Staff"
+            },
+            "tags": [
+                   "Save Money"
+            ],
+            "date_published": "2021-04-09T10:47:23-06:00",
+            "date_modified": "2021-04-24T11:27:53-06:00"
+        },
+        {
+            "id": "https://homeofficepolitics.com/write-for-us/",
+            "url": "https://homeofficepolitics.com/write-for-us/",
+            "title": "Write for Us",
+            "summary": " We love working with other authors and people experienced with making money, saving money, working from home, remote jobs, side hustles, side gigs and personal finance. Please complete this form if you have something you would like to contribute or if you want to work together. We love reciprocating links, articles, etc. Fees may apply. Don't get overwhelmed here, this is more common sense and is easy if you write quality content. Submit your content. Thank you. ",
+            "image": "https://homeofficepolitics.com/media/posts/4/write-for-hop-960.webp",
+            "author": {
+                "name": "Staff"
+            },
+            "tags": [
+                   "About"
+            ],
+            "date_published": "2021-04-06T12:07:49-06:00",
+            "date_modified": "2021-04-24T11:27:29-06:00"
         }
     ]
 }
