@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://homeofficepolitics.com/difference-between-side-hustle-side-gig/",
+            "url": "https://homeofficepolitics.com/difference-between-side-hustle-side-gig/",
+            "title": "The Difference Between a Side Hustle and a Side Gig",
+            "summary": "Have you ever met someone who didn’t want to earn extra bucks? I haven’t! But the way that someone makes money from a side job (hustle or gig) can vary a lot depending on the person. Enter the rise of the gig economy, a labor market characterized by the prevalence of short-term contracts OR freelance work as opposed to permanent jobs. And many side jobs can supplement your income from your day job. A side job has two categories: the side hustle and the side gig. Both let you earn extra money, but knowing the difference between the two will help you choose which side job fits you best. A side hustle is a side job that usually involves something that you are passionate about, and you usually work for yourself as a freelancer or in your own company or brand. Maddie is an example; she works in a bank during the day, but is instead passionate about scriptwriting. As a senior bank executive, she can hardly find time to enjoy her passion. When she sold her first script and got noticed for her brilliant work, she started accepting scriptwriting jobs on the side as a side hustle. Maddie has&hellip;",
+            "image": "https://homeofficepolitics.com/media/posts/25/side-hustle-vs-side-gig.webp",
+            "author": {
+                "name": "Staff"
+            },
+            "tags": [
+                   "Side Hustle",
+                   "Side Gig"
+            ],
+            "date_published": "2021-06-19T14:12:02-06:00",
+            "date_modified": "2021-06-19T14:55:28-06:00"
+        },
+        {
             "id": "https://homeofficepolitics.com/13-ways-make-money-teenager/",
             "url": "https://homeofficepolitics.com/13-ways-make-money-teenager/",
             "title": "13 Ways to Make Money as a Teenager",
@@ -150,21 +166,6 @@
             ],
             "date_published": "2021-04-14T13:55:52-06:00",
             "date_modified": "2021-05-31T14:16:37-06:00"
-        },
-        {
-            "id": "https://homeofficepolitics.com/contact/",
-            "url": "https://homeofficepolitics.com/contact/",
-            "title": "Contact Us",
-            "summary": " Send us an email by completing the form below. No spam please. Loading… ",
-            "image": "https://homeofficepolitics.com/media/posts/3/contact-hop-960.webp",
-            "author": {
-                "name": "Staff"
-            },
-            "tags": [
-                   "About"
-            ],
-            "date_published": "2021-04-14T13:55:10-06:00",
-            "date_modified": "2021-04-24T11:27:17-06:00"
         }
     ]
 }
