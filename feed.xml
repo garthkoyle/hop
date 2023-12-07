@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Home Office Politics</title>
     <link href="https://homeofficepolitics.com/feed.xml" rel="self" />
     <link href="https://homeofficepolitics.com" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://homeofficepolitics.com/best-paying-weekend-jobs/"/>
         <id>https://homeofficepolitics.com/best-paying-weekend-jobs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/47/best-weekend-jobs.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-09-08T11:24:05-06:00</updated>
@@ -34,6 +35,7 @@
         </author>
         <link href="https://homeofficepolitics.com/personalized-list-side-hustle-ideas/"/>
         <id>https://homeofficepolitics.com/personalized-list-side-hustle-ideas/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/46/personalized-list-side-hustle-ideas.webp" medium="image" />
             <category term="Side Hustle"/>
 
         <updated>2021-09-08T11:24:21-06:00</updated>
@@ -52,6 +54,7 @@
         </author>
         <link href="https://homeofficepolitics.com/15-true-real-estate-side-hustles/"/>
         <id>https://homeofficepolitics.com/15-true-real-estate-side-hustles/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/45/15-true-real-estate-side-hustles.webp" medium="image" />
             <category term="Side Hustle"/>
             <category term="Real Estate"/>
 
@@ -71,6 +74,7 @@
         </author>
         <link href="https://homeofficepolitics.com/top-10-side-hustles-from-home/"/>
         <id>https://homeofficepolitics.com/top-10-side-hustles-from-home/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/44/top-10-side-hustles-home.webp" medium="image" />
             <category term="Work From Home"/>
             <category term="Side Hustle"/>
 
@@ -90,6 +94,7 @@
         </author>
         <link href="https://homeofficepolitics.com/weekend-jobs-columbia-south-carolina/"/>
         <id>https://homeofficepolitics.com/weekend-jobs-columbia-south-carolina/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/43/7-easy-weekend-jobs-columbia-south-carolina.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-30T17:20:15-06:00</updated>
@@ -108,6 +113,7 @@
         </author>
         <link href="https://homeofficepolitics.com/weekend-jobs-new-jersey/"/>
         <id>https://homeofficepolitics.com/weekend-jobs-new-jersey/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/42/9-easy-weekend-jobs-new-jersey.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-30T17:15:40-06:00</updated>
@@ -126,6 +132,7 @@
         </author>
         <link href="https://homeofficepolitics.com/weekend-jobs-new-york-city/"/>
         <id>https://homeofficepolitics.com/weekend-jobs-new-york-city/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/40/weekend-jobs-new-york-city.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-30T16:52:28-06:00</updated>
@@ -144,6 +151,7 @@
         </author>
         <link href="https://homeofficepolitics.com/your-guide-on-how-to-side-hustle-reddit/"/>
         <id>https://homeofficepolitics.com/your-guide-on-how-to-side-hustle-reddit/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/39/how-to-side-hustle-reddit.webp" medium="image" />
             <category term="Side Hustle"/>
 
         <updated>2021-08-25T15:51:41-06:00</updated>
@@ -162,6 +170,7 @@
         </author>
         <link href="https://homeofficepolitics.com/easy-remote-work-from-home-weekend-jobs/"/>
         <id>https://homeofficepolitics.com/easy-remote-work-from-home-weekend-jobs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/38/easy-remote-work-from-home-weekend-jobs.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-30T10:33:19-06:00</updated>
@@ -180,6 +189,7 @@
         </author>
         <link href="https://homeofficepolitics.com/15-side-hustle-gig-apps-earn-money/"/>
         <id>https://homeofficepolitics.com/15-side-hustle-gig-apps-earn-money/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/37/15-side-hustle-gig-apps-make-money-2.webp" medium="image" />
             <category term="Side Gig"/>
             <category term="App"/>
 
@@ -199,6 +209,7 @@
         </author>
         <link href="https://homeofficepolitics.com/do-i-work-from-home-or-sleep-at-the-office/"/>
         <id>https://homeofficepolitics.com/do-i-work-from-home-or-sleep-at-the-office/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/36/Work-From-Home-Sleep-At-Office.webp" medium="image" />
             <category term="Work From Home"/>
             <category term="Memes"/>
 
@@ -218,6 +229,7 @@
         </author>
         <link href="https://homeofficepolitics.com/part-time-on-demand-remote-weekend-jobs/"/>
         <id>https://homeofficepolitics.com/part-time-on-demand-remote-weekend-jobs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/35/restraunt-server-side-gig-sm.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-23T14:34:31-06:00</updated>
@@ -236,6 +248,7 @@
         </author>
         <link href="https://homeofficepolitics.com/remote-jobs-you-can-do-on-weekends/"/>
         <id>https://homeofficepolitics.com/remote-jobs-you-can-do-on-weekends/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/34/audio-transcriptinoist-weekend-job-sm.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-09-08T21:53:58-06:00</updated>
@@ -254,6 +267,7 @@
         </author>
         <link href="https://homeofficepolitics.com/highest-paying-side-gigs/"/>
         <id>https://homeofficepolitics.com/highest-paying-side-gigs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/33/software-developer-side-gig.webp" medium="image" />
             <category term="Side Gig"/>
 
         <updated>2021-07-28T09:39:54-06:00</updated>
@@ -272,6 +286,7 @@
         </author>
         <link href="https://homeofficepolitics.com/permanent-part-time-weekend-jobs/"/>
         <id>https://homeofficepolitics.com/permanent-part-time-weekend-jobs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/32/golf-caddy-weekend-job-man.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-09-08T11:05:13-06:00</updated>
@@ -290,6 +305,7 @@
         </author>
         <link href="https://homeofficepolitics.com/6-highest-paying-jobs-without-a-degree/"/>
         <id>https://homeofficepolitics.com/6-highest-paying-jobs-without-a-degree/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/31/commercial-pilot.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-07-28T09:13:42-06:00</updated>
@@ -308,6 +324,7 @@
         </author>
         <link href="https://homeofficepolitics.com/i-hired-my-wife-as-our-social-media-manager-because-of-her-extensive-experience-scrolling/"/>
         <id>https://homeofficepolitics.com/i-hired-my-wife-as-our-social-media-manager-because-of-her-extensive-experience-scrolling/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/30/I-hired-my-wife-as-my-social-media-manager-because-of-her-extensive-experience-with-scrolling-2.webp" medium="image" />
             <category term="Memes"/>
 
         <updated>2021-08-06T07:48:59-06:00</updated>
@@ -326,13 +343,14 @@
         </author>
         <link href="https://homeofficepolitics.com/workingfromhome-gives-new-meaning-to-the-concept-of-open-office/"/>
         <id>https://homeofficepolitics.com/workingfromhome-gives-new-meaning-to-the-concept-of-open-office/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/29/Open-Office-2.webp" medium="image" />
             <category term="Memes"/>
 
         <updated>2021-07-28T00:12:00-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/29/Open-Office-2.webp" alt="#workingfromhome gives new meaning to the concept of Open Office." />
-                     Remember when the concept of "open office" was the trendy office layout? Goodbye cubical walls, hello noise pollution! 📣 You used to hear Matt chronicling his weekend stories and you thought that was annoying! Now you've got several kids running around your office (the kitchen table) telling you about their nose bugs, tattle-telling that their sibling called them a mean name, and you can hear it all! We know it's hard to get any work done when the whole house is the office. Here are some ideas we've tried that might help you deal with noise and interruptions from working at home: Yes, you too can resort to these tactics of working from home and still sleep at night, we promise! #workfromhome #openoffice #workwithcrybabies 
+                    Remember when the concept of "open office" was the trendy office layout? Goodbye cubical walls, hello noise pollution! 📣 You used to hear Matt chronicling his weekend stories and you thought that was annoying! Now you've got several kids running around your office (the kitchen table) telling you about their nose bugs, tattle-telling that their sibling called them a mean name, and you can hear it all! We know it's hard to get any work done when the whole house is the office. Here are some ideas we've tried that might help you deal with noise and interruptions from working at home: Yes, you too can resort to these tactics of working from home and still sleep at night, we promise! #workfromhome #openoffice #workwithcrybabies
                 ]]>
             </summary>
         <content></content>
@@ -344,6 +362,7 @@
         </author>
         <link href="https://homeofficepolitics.com/weekend-jobs-for-college-students/"/>
         <id>https://homeofficepolitics.com/weekend-jobs-for-college-students/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/28/college-student-tutoring.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-07-28T09:12:22-06:00</updated>
@@ -362,6 +381,7 @@
         </author>
         <link href="https://homeofficepolitics.com/difference-between-side-hustle-side-gig/"/>
         <id>https://homeofficepolitics.com/difference-between-side-hustle-side-gig/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/25/side-hustle-vs-side-gig.webp" medium="image" />
             <category term="Side Hustle"/>
             <category term="Side Gig"/>
 
@@ -381,6 +401,7 @@
         </author>
         <link href="https://homeofficepolitics.com/12-creative-ways-to-find-or-get-a-job/"/>
         <id>https://homeofficepolitics.com/12-creative-ways-to-find-or-get-a-job/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/27/12-creative-ways-find-get-job.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-08-20T13:43:14-06:00</updated>
@@ -399,6 +420,7 @@
         </author>
         <link href="https://homeofficepolitics.com/easy-weekend-jobs-for-teens/"/>
         <id>https://homeofficepolitics.com/easy-weekend-jobs-for-teens/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/26/teenager-driving-weekend-job.webp" medium="image" />
             <category term="Jobs"/>
 
         <updated>2021-07-28T00:07:45-06:00</updated>
@@ -417,6 +439,7 @@
         </author>
         <link href="https://homeofficepolitics.com/13-ways-make-money-teenager/"/>
         <id>https://homeofficepolitics.com/13-ways-make-money-teenager/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/24/jobs-teenagers-make-money-driving-960.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Jobs"/>
 
@@ -436,6 +459,7 @@
         </author>
         <link href="https://homeofficepolitics.com/save-money-live-better/"/>
         <id>https://homeofficepolitics.com/save-money-live-better/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/23/save-money-live-better.webp" medium="image" />
             <category term="Save Money"/>
 
         <updated>2021-07-28T00:05:29-06:00</updated>
@@ -454,6 +478,7 @@
         </author>
         <link href="https://homeofficepolitics.com/creative-ways-to-make-money/"/>
         <id>https://homeofficepolitics.com/creative-ways-to-make-money/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/22/creative-ways-to-make-money.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Creative"/>
 
@@ -473,6 +498,7 @@
         </author>
         <link href="https://homeofficepolitics.com/easy-weekend-jobs/"/>
         <id>https://homeofficepolitics.com/easy-weekend-jobs/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/21/brooke-cagle-8jp-6SjVibM-unsplash.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Jobs"/>
 
@@ -492,6 +518,7 @@
         </author>
         <link href="https://homeofficepolitics.com/creativity-business-entrepreneurship-making-money/"/>
         <id>https://homeofficepolitics.com/creativity-business-entrepreneurship-making-money/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/20/secret-creativity-business-making-money-banner.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Creative"/>
 
@@ -511,6 +538,7 @@
         </author>
         <link href="https://homeofficepolitics.com/10-creative-majors-degrees-educations-make-money/"/>
         <id>https://homeofficepolitics.com/10-creative-majors-degrees-educations-make-money/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/19/creative-majors-design-education-make-money.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Creative"/>
 
@@ -530,6 +558,7 @@
         </author>
         <link href="https://homeofficepolitics.com/how-creative-thinking-leads-to-making-more-money/"/>
         <id>https://homeofficepolitics.com/how-creative-thinking-leads-to-making-more-money/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/18/creative-thinking-making-money-960-50.webp" medium="image" />
             <category term="Make Money"/>
             <category term="Creative"/>
 
@@ -549,13 +578,14 @@
         </author>
         <link href="https://homeofficepolitics.com/about/"/>
         <id>https://homeofficepolitics.com/about/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/1/about-home-office-politics-960-30-short.webp" medium="image" />
             <category term="About"/>
 
         <updated>2021-07-28T00:13:41-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/1/about-home-office-politics-960-30-short.webp" alt="About Home Office Politics" />
-                     We've been working online since 2002. We begun doing technical support and design services for an early ecommerce platform. Our first full-time work from home gig started in 2011 and we've been doing this ever since. We now manage five brands with a few dozen contractors. We've always thought we should chronicle our lives and experience working from home. We've had challenges, fun times, and love the puns all along the way. Follow us and we'll introduce you to how you can work from home on your own side hustle, time gig working for someone else, and save money too. 
+                    We've been working online since 2002. We begun doing technical support and design services for an early ecommerce platform. Our first full-time work from home gig started in 2011 and we've been doing this ever since. We now manage five brands with a few dozen contractors. We've always thought we should chronicle our lives and experience working from home. We've had challenges, fun times, and love the puns all along the way. Follow us and we'll introduce you to how you can work from home on your own side hustle, time gig working for someone else, and save money too.
                 ]]>
             </summary>
         <content></content>
@@ -567,13 +597,14 @@
         </author>
         <link href="https://homeofficepolitics.com/about-you/"/>
         <id>https://homeofficepolitics.com/about-you/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/2/about-you-960-50.webp" medium="image" />
             <category term="Resources"/>
 
         <updated>2021-07-28T00:13:32-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/2/about-you-960-50.webp" alt="About You Working From Home" />
-                     We want to know more about you. Tell us what you want to achieve? Do you want to make more more money, save money, start a side hustle or get side gig? What challenges are you experiencing? What would help you achieve these goals? If we can help, we will get back to you with more information and resources. Loading…
+                    We want to know more about you. Tell us what you want to achieve? Do you want to make more more money, save money, start a side hustle or get side gig? What challenges are you experiencing? What would help you achieve these goals? If we can help, we will get back to you with more information and resources. Loading…
                 ]]>
             </summary>
         <content></content>
@@ -585,13 +616,14 @@
         </author>
         <link href="https://homeofficepolitics.com/contact/"/>
         <id>https://homeofficepolitics.com/contact/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/3/contact-hop-960.webp" medium="image" />
             <category term="About"/>
 
         <updated>2021-07-28T00:13:20-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/3/contact-hop-960.webp" alt="Contact Home Office Politics" />
-                     Send us an email by completing the form below. No spam please. Loading… 
+                    Send us an email by completing the form below. No spam please. Loading…
                 ]]>
             </summary>
         <content></content>
@@ -603,13 +635,14 @@
         </author>
         <link href="https://homeofficepolitics.com/tcp/"/>
         <id>https://homeofficepolitics.com/tcp/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/6/terms-conditions-privacy.jpg" medium="image" />
             <category term="About"/>
 
         <updated>2021-07-28T00:12:43-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/6/terms-conditions-privacy.jpg" alt="Home Office Politics Terms, Conditions Privacy Policies" />
-                     The terms "us", "we", "HOP", etc. represent Home Office Politics. The terms "you", "viewer", "visitor", etc. represent you. Our service, tools and information is provided as-is with no warranty. We will do our best to provide you great information and tools and keep them available as much as possible. We reserve the right to limit access to our resources at our sole discretion.&nbsp; We reserve the right to use the content, data and tools at our disposal for our advantage as long as it is good and legal. Data provided to us via form submissions is used for customer service, assessment, and marketing purposes. The&nbsp;content on HomeOfficePolitics.com may contain affiliate links, meaning we&nbsp;receive payment if you decide to make a purchase or sign up through our links, at no cost to you. Please use our links to help support everything we are trying to do for you and our community. 
+                    The terms "us", "we", "HOP", etc. represent Home Office Politics. The terms "you", "viewer", "visitor", etc. represent you. Our service, tools and information is provided as-is with no warranty. We will do our best to provide you great information and tools and keep them available as much as possible. We reserve the right to limit access to our resources at our sole discretion.&nbsp; We reserve the right to use the content, data and tools at our disposal for our advantage as long as it is good and legal. Data provided to us via form submissions is used for customer service, assessment, and marketing purposes. The&nbsp;content on HomeOfficePolitics.com may contain affiliate links, meaning we&nbsp;receive payment if you decide to make a purchase or sign up through our links, at no cost to you. Please use our links to help support everything we are trying to do for you and our community.
                 ]]>
             </summary>
         <content></content>
@@ -621,13 +654,14 @@
         </author>
         <link href="https://homeofficepolitics.com/write-for-us/"/>
         <id>https://homeofficepolitics.com/write-for-us/</id>
+        <media:content url="https://homeofficepolitics.com/media/posts/4/write-for-hop-960.webp" medium="image" />
             <category term="About"/>
 
         <updated>2021-07-28T00:13:09-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://homeofficepolitics.com/media/posts/4/write-for-hop-960.webp" alt="Write for us" />
-                     We love working with other authors and people experienced with making money, saving money, working from home, remote jobs, side hustles, side gigs and personal finance. Please complete this form if you have something you would like to contribute or if you want to work together. We love reciprocating links, articles, etc. Fees may apply. Don't get overwhelmed here, this is more common sense and is easy if you write quality content. Submit your content. Thank you. 
+                    We love working with other authors and people experienced with making money, saving money, working from home, remote jobs, side hustles, side gigs and personal finance. Please complete this form if you have something you would like to contribute or if you want to work together. We love reciprocating links, articles, etc. Fees may apply. Don't get overwhelmed here, this is more common sense and is easy if you write quality content. Submit your content. Thank you.
                 ]]>
             </summary>
         <content></content>
